@@ -63,7 +63,7 @@ nav{
 .title{                                  /* main */
     padding: 160px 0px;
    
-    background: url('/files/title.png') center / cover;
+    background: url('../files/title.png') center / cover;
 }
 
 h1{
@@ -91,7 +91,7 @@ h2{
 }
 
 .hero{
-    background: url("/files/hero.png") center / cover;
+    background: url("../files/hero.png") center / cover;
     padding: 128px 0px;
 }
 
