@@ -62,8 +62,8 @@ nav{
 
 .title{                                  /* main */
     padding: 160px 0px;
-    
-    background: url("/files/title/title.png") center / cover;
+   
+    background: url('/files/title.png') center / cover;
 }
 
 h1{
@@ -91,7 +91,7 @@ h2{
 }
 
 .hero{
-    background: url("/files/hero/hero.png") center / cover;
+    background: url("/files/hero.png") center / cover;
     padding: 128px 0px;
 }
 
@@ -163,7 +163,6 @@ em{
     font-size: 18px;
     font-weight: 400;
     line-height: 21.09px;
-    color: black;
 
     padding-bottom: 28px;
 }
